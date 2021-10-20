@@ -1,5 +1,4 @@
 # main
-<!DOCTYPE html>
 <html>
 <head>
   <!-- 설치하지 않고 참조하는 cdn 방식 -->
